@@ -24,3 +24,11 @@ initialize() - create an empty queue
 isfull() - checks if the queue is full
 isempty() - check if the queue is empty
 ```
+
+```chatinput
+Common Exception using Map Collection in Java
+- NoSuchElementException = this occurs when no items exist in thi invoking map
+- ClassCastException = This occurs when an object is incomplete with the element in a map
+- NullPointException = This occurs if an attempt is made to use a null object and null is not allowed in the map
+- UnsupportedOperationException = this occures when an attempt is made to change a map which is unmodifiable
+```
