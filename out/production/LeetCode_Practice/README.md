@@ -15,3 +15,12 @@ String Methods = >
  * concate() -> concate two strings
  * indexOf() ->  Returns the index of the character/substring
 ```
+
+```chatinput
+enqueue() - Process of adding or storing an element to the end of the queue
+dequeue() - Process of removing or accessing an element from the front of the queue
+peek() - Used to get the element at the front of the queue without removing it
+initialize() - create an empty queue
+isfull() - checks if the queue is full
+isempty() - check if the queue is empty
+```
