@@ -32,7 +32,7 @@
 package LeetCode_problems;
 
 public class FirstBadVersion {
-    private static boolean findFirstBadVersion ( int n ) {
+    private static int findFirstBadVersion ( int n ) {
 //        create two pointer low and right so I can find mid and check if mid has and true then check low or mid otherwise check right
         int low = 0;
         int high = n;
