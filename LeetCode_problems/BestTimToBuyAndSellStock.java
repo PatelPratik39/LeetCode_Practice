@@ -3,7 +3,7 @@
  *
  */
 
-package LeetCode_poblems;
+package LeetCode_problems;
 
 public class BestTimToBuyAndSellStock {
     private static int findMaxProfit ( int[] prices ) {

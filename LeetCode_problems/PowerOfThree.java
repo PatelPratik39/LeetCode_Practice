@@ -1,4 +1,4 @@
-package LeetCode_poblems;
+package LeetCode_problems;
 
 public class PowerOfThree {
     private static boolean isPowerOfThree ( int n ) {

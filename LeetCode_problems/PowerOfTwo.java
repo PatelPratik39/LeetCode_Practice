@@ -24,7 +24,7 @@
  * Follow up: Could you solve it without loops/recursion?
  */
 
-package LeetCode_poblems;
+package LeetCode_problems;
 
 public class PowerOfTwo {
 
