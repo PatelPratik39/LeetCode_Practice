@@ -2,7 +2,7 @@
  * 153. Find Minimum in Rotated Sorted Array
  */
 
-package Leetcode_153;
+package LeetCode_poblems;
 
 public class FindMinInRotateSortedArray {
     private static int findMin ( int[] nums ) {

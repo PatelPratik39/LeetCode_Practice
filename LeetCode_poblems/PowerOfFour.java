@@ -1,4 +1,4 @@
-package Leetcode_153;
+package LeetCode_poblems;
 
 public class PowerOfFour {
     private static boolean isPowerOfFour ( int n ) {
