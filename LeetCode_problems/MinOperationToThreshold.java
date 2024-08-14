@@ -62,7 +62,8 @@ FIRST APPROACH. => Time complexity = O(n log n)
     }
 
     public static void main ( String[] args ) {
-        int[] nums = { 2,11,10,2,3};
+//        int[] nums = { 2,11,10,2,3};
+        int[] nums = {1,1,2,4,9};
         int k = 10; // threshold value
         //output should be minimum 3 operation
         System.out.println(minOperations(nums, k));
