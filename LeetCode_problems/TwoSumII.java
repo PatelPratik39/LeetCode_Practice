@@ -22,11 +22,10 @@ package LeetCode_problems;
 
 import java.util.Arrays;
 
-
 public class TwoSumII {
 
     private static int[] findSumOfTwoII(int[] nums, int target) {
-        // two pointers approach
+        // Two pointers approach
         int left = 0;
         int right = nums.length - 1;
 
@@ -43,13 +42,12 @@ public class TwoSumII {
         }
         return new int[]{-1, -1}; // Shouldn't reach here as per problem constraints
     }
-}
 
-public static void main(String[] args) {
-    int[] nums = {2, 7, 11, 15};
-    int target = 9;
-    System.out.println(Arrays.toString(findSumOfTwoII(nums, target))); // Use Arrays.toString to print the result array
-}
+    public static void main(String[] args) {
+        int[] nums = {2, 7, 11, 15};
+        int target = 9;
+        System.out.println(Arrays.toString(findSumOfTwoII(nums, target))); // Use Arrays.toString to print the result array
+    }
 
 }
 
