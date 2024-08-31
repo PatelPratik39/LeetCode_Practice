@@ -1,6 +1,6 @@
 package LeetCode_problems;
 
-public class RomanToInteger2 {
+public class IntegerToRoman {
 
     private static String intToRoman ( int num ) {
         // Define the Roman numeral values and symbols
