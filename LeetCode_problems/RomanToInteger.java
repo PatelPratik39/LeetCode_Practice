@@ -31,11 +31,11 @@ public class RomanToInteger {
 //        String s = "III";
 //        System.out.println(romanToInt(s));  // Output: 3
 //
-//        String s = "LVIII";
-//        System.out.println(romanToInt(s));  // Output: 58
+        String s = "LVIII";
+        System.out.println(romanToInt(s));  // Output: 58
 
-        String s = "MCMXCIV";
-        System.out.println(romanToInt(s));  // Output: 1994
+//        String s = "MCMXCIV";
+//        System.out.println(romanToInt(s));  // Output: 1994
     }
 
 
